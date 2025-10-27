@@ -6,7 +6,7 @@ const config: CapacitorConfig = {
   webDir: 'dist',
   server: {
     // Enable live reload during development
-    url: 'http://localhost:5173',
+    url: 'https://youtube-summarizer-rahuls360.vercel.app',
     cleartext: true
   }
 };
