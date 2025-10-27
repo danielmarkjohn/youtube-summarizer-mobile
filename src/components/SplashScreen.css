@@ -1,0 +1,40 @@
+.splash-screen {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  z-index: 9999;
+}
+
+.splash-content {
+  text-align: center;
+  color: white;
+}
+
+.splash-logo {
+  margin-bottom: 20px;
+}
+
+.splash-logo ion-spinner {
+  width: 60px;
+  height: 60px;
+  --color: white;
+}
+
+.splash-screen h1 {
+  font-size: 28px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.splash-screen p {
+  font-size: 16px;
+  opacity: 0.9;
+  margin: 5px 0;
+}
+

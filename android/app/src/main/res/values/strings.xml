@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">YouTube Summarizer</string>
+    <string name="title_activity_main">YouTube Summarizer</string>
+    <string name="package_name">com.yourdomain.youtubesummarizer</string>
+    <string name="custom_url_scheme">com.yourdomain.youtubesummarizer</string>
+</resources>
+
